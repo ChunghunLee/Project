@@ -12,4 +12,11 @@ Once the photos are uploaded to the server, you connect to the server with a des
 
 <<< 3rd Step >>>
 Match the received picture file with the path created in the python file.
+
+<<< Last Step >>>
+Execute the 'recog.py' file.
+
+
+
+< Information >
 it use the Canny edge detection which detect the 'edge' in plate.
